@@ -1,0 +1,43 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #010624;
+    font-size: large;
+    color: #fff;
+}
+#heading{
+text-align: center;
+color: white        ;
+margin-bottom: 2%;
+font-size: larger;
+font-weight: bolder;
+padding-left: 20px;
+}
+
+.pic1{
+    height: 200px;
+    width: 800px;
+    align-items: center;
+    padding-left: 30px;
+
+}
+.table{
+    width: 70%;
+    height: 50%;
+    text-align: center;
+    margin: 35px;
+}
+button{
+    background-color: black;
+    color: white;
+}
+.pic2{
+    width: 250px;
+    height: 50%;
+}
+th{
+    background-color: grey;
+}
+.gbtt{
+    text-align: center;
+    color:blue;
+}
