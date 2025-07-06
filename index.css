@@ -15,9 +15,9 @@ padding-left: 20px;
 
 .pic1{
     height: 150px;
-    width: px;
+    width: -10px;
     align-items: center;
-    padding-left: 10px;
+    padding-left: 0px;
 
 }
 .table{
@@ -40,4 +40,4 @@ th{
 .gbtt{
     text-align: center;
     color:blue;
-}
+}}
